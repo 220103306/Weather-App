@@ -1,6 +1,6 @@
 # Weather-App
 
-To run the program, you need to enter “java -jar C:\path\to\your\file.jar” on the command line
+To run the program, you need to enter “java -jar C:\path\to\your\Weather App.jar” on the command line
 
 The program is built using JavaFX for the graphical user interface.
 
